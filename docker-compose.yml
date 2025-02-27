@@ -144,10 +144,10 @@ volumes:
     redis_data:
         driver: local
         name: redis_data
-    mw_app_composer_data:
+    app_composer_data:
         driver: local
         name: app_composer_data
-    mw_app_npm_data:
+    app_npm_data:
         driver: local
         name: app_npm_data
 
